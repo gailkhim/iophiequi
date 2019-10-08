@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bahngeiwe.ongtao.xyz/sitemap.xml
